@@ -30,7 +30,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -47,7 +46,7 @@ L'utente, appena entrato nella pagina, visualizzerà 0 come valore del counter e
 
 <!-- CONTACT -->
 
-## Contact
+## Contatti
 
 Work in progress
 
