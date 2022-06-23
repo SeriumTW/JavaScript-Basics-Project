@@ -4,39 +4,38 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/img/js-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">JavaScript Basics Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SeriumTW/JavaScript-Basics-Project"><strong>Esplora la documentazione»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="">Guarda Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/SeriumTW/JavaScript-Basics-Project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SeriumTW/JavaScript-Basics-Project/pulls">Request Feature</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- Indice -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Indice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Informazioni-sul-progetto</a>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contatti</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Informazioni sul progetto
 
 JavaScript Basics Project, un'applicazione JavaScript che permetta all'utente di aumentare e decrementare il valore del counter.
 
