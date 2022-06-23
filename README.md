@@ -14,7 +14,7 @@
     <a href="https://github.com/SeriumTW/JavaScript-Basics-Project"><strong>Esplora la documentazione»</strong></a>
     <br />
     <br />
-    <a href="">Guarda Demo</a>
+    <a href="https://javascript-basics-project.netlify.app/">Guarda Demo</a>
     ·
     <a href="https://github.com/SeriumTW/JavaScript-Basics-Project/issues">Report Bug</a>
     ·
