@@ -53,4 +53,4 @@ Work in progress
 
 <!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna sopra</a>)</p>
